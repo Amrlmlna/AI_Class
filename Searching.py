@@ -16,7 +16,7 @@ while True:
     else:
         print("angka yang anda pilih tidak ada dalam list atau tidak genap")
 
-    retry = input("Apakah ingin mencoba program ini lagi? (y/n): ").strip().lower()
+    retry = input("Apakah anda ingin mencoba program ini lagi? (y/n): ").strip().lower()
     if retry != 'y':
         print("Program selesai. Terima kasih banyak!")
         break
