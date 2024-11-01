@@ -1,1 +1,2 @@
-# AI_Class
+Nama : Amirul Maulana
+Stambuk : F55123039
